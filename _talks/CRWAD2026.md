@@ -1,5 +1,5 @@
 ---
-title: "Precision Metagenomics: Adaptive Sampling for Improved Detection of <i>Mannheimia haemolytica</i>"
+title: "Precision Metagenomics: Adaptive Sampling for Improved Detection of Mannheimia haemolytica"
 collection: talks
 type: "Talk"
 venue: "CRWAD 2026"
