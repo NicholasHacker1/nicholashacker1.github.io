@@ -86,12 +86,12 @@ author:
 publication_category:
   # books:
     # title: 'Books'
+  manuscripts:
+    title: 'Journal Articles' 
   preprint:
     title: 'Preprint'
   inprogress:
-    title: 'In Progress'
-  manuscripts:
-    title: 'Journal Articles'    
+    title: 'In Progress'   
   abstracts:
     title: 'Abstracts'
 
