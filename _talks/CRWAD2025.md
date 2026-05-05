@@ -1,5 +1,5 @@
 ---
-title: "Molecular Epidemiology of Mannheimia haemolytica Isolates in Beef Cattle"
+title: "Molecular Epidemiology of <i>Mannheimia haemolytica</i> Isolates in Beef Cattle"
 collection: talks
 type: "Talk"
 venue: "CRWAD 2025"
