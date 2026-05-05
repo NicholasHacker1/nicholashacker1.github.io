@@ -39,10 +39,10 @@ Work experience
 Skills
 ======
 * PROFESSIONAL SKILLS		
-  ASCP Eligible | Project Management | Biosafety Adherence | Team Coordination | Data Entry & Management | Attention to       Detail | Equipment Maintenance | Time Management | Critical Problem-solving | Communication
+  * ASCP Eligible | Project Management | Biosafety Adherence | Team Coordination | Data Entry & Management | Attention to       Detail | Equipment Maintenance | Time Management | Critical Problem-solving | Communication
 
 * TECHNICAL SKILLS		
-  Next Generation Sequencing | Aseptic Technique | Microbiology | Sample Extraction | Quality Control Measurements | PCR,     qPCR & dPCR | Bioinformatics | SOP Development 
+  * Next Generation Sequencing | Aseptic Technique | Microbiology | Sample Extraction | Quality Control Measurements | PCR,     qPCR & dPCR | Bioinformatics | SOP Development 
 
 
 Publications
